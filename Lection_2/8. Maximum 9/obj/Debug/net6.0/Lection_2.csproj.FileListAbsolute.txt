@@ -1,0 +1,15 @@
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Maximum 9/bin/Debug/net6.0/Lection_2
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Maximum 9/bin/Debug/net6.0/Lection_2.deps.json
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Maximum 9/bin/Debug/net6.0/Lection_2.runtimeconfig.json
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Maximum 9/bin/Debug/net6.0/Lection_2.dll
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Maximum 9/bin/Debug/net6.0/Lection_2.pdb
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Maximum 9/obj/Debug/net6.0/Lection_2.csproj.AssemblyReference.cache
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Maximum 9/obj/Debug/net6.0/Lection_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Maximum 9/obj/Debug/net6.0/Lection_2.AssemblyInfoInputs.cache
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Maximum 9/obj/Debug/net6.0/Lection_2.AssemblyInfo.cs
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Maximum 9/obj/Debug/net6.0/Lection_2.csproj.CoreCompileInputs.cache
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Maximum 9/obj/Debug/net6.0/Lection_2.dll
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Maximum 9/obj/Debug/net6.0/refint/Lection_2.dll
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Maximum 9/obj/Debug/net6.0/Lection_2.pdb
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Maximum 9/obj/Debug/net6.0/Lection_2.genruntimeconfig.cache
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Maximum 9/obj/Debug/net6.0/ref/Lection_2.dll

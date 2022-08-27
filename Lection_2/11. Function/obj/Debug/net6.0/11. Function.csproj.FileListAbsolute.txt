@@ -1,0 +1,15 @@
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/11. Function/obj/Debug/net6.0/11. Function.csproj.AssemblyReference.cache
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/11. Function/obj/Debug/net6.0/11. Function.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/11. Function/obj/Debug/net6.0/11. Function.AssemblyInfoInputs.cache
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/11. Function/obj/Debug/net6.0/11. Function.AssemblyInfo.cs
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/11. Function/obj/Debug/net6.0/11. Function.csproj.CoreCompileInputs.cache
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/11. Function/bin/Debug/net6.0/11. Function
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/11. Function/bin/Debug/net6.0/11. Function.deps.json
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/11. Function/bin/Debug/net6.0/11. Function.runtimeconfig.json
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/11. Function/bin/Debug/net6.0/11. Function.dll
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/11. Function/bin/Debug/net6.0/11. Function.pdb
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/11. Function/obj/Debug/net6.0/11. Function.dll
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/11. Function/obj/Debug/net6.0/refint/11. Function.dll
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/11. Function/obj/Debug/net6.0/11. Function.pdb
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/11. Function/obj/Debug/net6.0/11. Function.genruntimeconfig.cache
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/11. Function/obj/Debug/net6.0/ref/11. Function.dll

@@ -1,0 +1,15 @@
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Massive/obj/Debug/net6.0/Massive.csproj.AssemblyReference.cache
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Massive/obj/Debug/net6.0/Massive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Massive/obj/Debug/net6.0/Massive.AssemblyInfoInputs.cache
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Massive/obj/Debug/net6.0/Massive.AssemblyInfo.cs
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Massive/obj/Debug/net6.0/Massive.csproj.CoreCompileInputs.cache
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Massive/bin/Debug/net6.0/Massive
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Massive/bin/Debug/net6.0/Massive.deps.json
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Massive/bin/Debug/net6.0/Massive.runtimeconfig.json
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Massive/bin/Debug/net6.0/Massive.dll
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Massive/bin/Debug/net6.0/Massive.pdb
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Massive/obj/Debug/net6.0/Massive.dll
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Massive/obj/Debug/net6.0/refint/Massive.dll
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Massive/obj/Debug/net6.0/Massive.pdb
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Massive/obj/Debug/net6.0/Massive.genruntimeconfig.cache
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lection_2/Massive/obj/Debug/net6.0/ref/Massive.dll
