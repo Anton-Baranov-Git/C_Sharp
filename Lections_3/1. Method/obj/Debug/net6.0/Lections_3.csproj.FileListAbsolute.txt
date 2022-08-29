@@ -1,0 +1,30 @@
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/bin/Debug/net6.0/Lections_3
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/bin/Debug/net6.0/Lections_3.deps.json
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/bin/Debug/net6.0/Lections_3.runtimeconfig.json
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/bin/Debug/net6.0/Lections_3.dll
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/bin/Debug/net6.0/Lections_3.pdb
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/obj/Debug/net6.0/Lections_3.csproj.AssemblyReference.cache
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/obj/Debug/net6.0/Lections_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/obj/Debug/net6.0/Lections_3.AssemblyInfoInputs.cache
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/obj/Debug/net6.0/Lections_3.AssemblyInfo.cs
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/obj/Debug/net6.0/Lections_3.csproj.CoreCompileInputs.cache
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/obj/Debug/net6.0/Lections_3.dll
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/obj/Debug/net6.0/refint/Lections_3.dll
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/obj/Debug/net6.0/Lections_3.pdb
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/obj/Debug/net6.0/Lections_3.genruntimeconfig.cache
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/obj/Debug/net6.0/ref/Lections_3.dll
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/1. Method/obj/Debug/net6.0/Lections_3.csproj.AssemblyReference.cache
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/1. Method/obj/Debug/net6.0/Lections_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/1. Method/obj/Debug/net6.0/Lections_3.AssemblyInfoInputs.cache
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/1. Method/obj/Debug/net6.0/Lections_3.AssemblyInfo.cs
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/1. Method/obj/Debug/net6.0/Lections_3.csproj.CoreCompileInputs.cache
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/1. Method/obj/Debug/net6.0/Lections_3.dll
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/1. Method/obj/Debug/net6.0/refint/Lections_3.dll
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/1. Method/obj/Debug/net6.0/Lections_3.pdb
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/1. Method/bin/Debug/net6.0/Lections_3
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/1. Method/bin/Debug/net6.0/Lections_3.deps.json
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/1. Method/bin/Debug/net6.0/Lections_3.runtimeconfig.json
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/1. Method/bin/Debug/net6.0/Lections_3.dll
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/1. Method/bin/Debug/net6.0/Lections_3.pdb
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/1. Method/obj/Debug/net6.0/Lections_3.genruntimeconfig.cache
+/Users/antonbaranov/Documents/GitHub/С#/Lections/Lections_3/1. Method/obj/Debug/net6.0/ref/Lections_3.dll
